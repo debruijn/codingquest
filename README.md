@@ -1,5 +1,5 @@
 # Coding quest
-My repository for participating in [coding quest](codingquest.io).
+My repository for participating in [coding quest](https://codingquest.io).
 
 ## Plan
 I am thinking of trying a different language for each series, and avoid Python if I can. My current plan:
