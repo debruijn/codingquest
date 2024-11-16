@@ -10,6 +10,6 @@ for (run_example in c(TRUE,FALSE)) {
 
   # Write solution here
 
-  # Output number depending on who wins
+  # Output of solution
   print(paste0("Solution for ", filename, ": ", "TODO"))
 }

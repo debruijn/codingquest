@@ -62,6 +62,6 @@ for (run_example in c(TRUE,FALSE)) {
     }
   }
 
-  # Output number depending on who wins
+  # Output of solution
   print(paste0("Solution for ", filename, ": ", solution))
 }
