@@ -1,3 +1,4 @@
-**/example*.txt
-**/input*.txt
+**/example*.*
+**/input*.*
 .idea
+node_modules
